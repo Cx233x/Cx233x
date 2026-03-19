@@ -22,9 +22,8 @@
 ---
 
 ### 🛠 Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,aws,git" />
+  <img src="https://skillicons.dev/icons?i=python,r,mysql,tensorflow,pytorch,git,github,vscode,aws,rust" />
 </p>
 
 📊 **Data Visualization:**
