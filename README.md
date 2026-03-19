@@ -34,7 +34,7 @@ Tableau • Power BI • ArcGIS • Looker Studio • Streamlit
 Pyhon • SQL • R • Excel • MySQL • SQLite • MongoDB • Pandas • NumPy • JSON • HTML 
 
 🤖 **Machine Learning:**
- NLP • Random Forest • Scikit-learn • Gradient Boosting (XGBoost / LightGBM) • PyTorch • TensorFlow • CNNs • model evaluation
+ NLP • Random Forest • Scikit-learn • Gradient Boosting (XGBoost / LightGBM) • PyTorch • TensorFlow • CNNs • Model Evaluation
 
 ---
 
@@ -54,5 +54,5 @@ Pyhon • SQL • R • Excel • MySQL • SQLite • MongoDB • Pandas • Nu
 🧑‍💻 **Linkedin: www.linkedin.com/in/yijiaxcindy**
 
 <p align="center">
-  Look forward to connect！
+  <b>Look forward to connect!</b>
 </p>
