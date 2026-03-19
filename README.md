@@ -9,7 +9,7 @@
 </p>
 
 🎓 **Senior @ Boston University** — Data Science & Statistical Modeling 
-💼 **Research Assistant @ Boston University Questrom School of Business**  
+💼 **Research Assistant** @ Boston University Questrom School of Business
 🚀 Interested in **Data Engineering, Machine Learning, and Reinforcement Learning**
 
 ---
