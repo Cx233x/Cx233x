@@ -27,10 +27,10 @@
   <img src="https://skillicons.dev/icons?i=python,java,r,mysql,rust,aws,azure,github" />
 </p>
 
-🤖 Machine Learning:
+🤖 **Machine Learning:**
 CNN, NLP (TF-IDF, embeddings), Random Forest, SVM, Gradient Boosting (XGBoost / LightGBM), PyTorch, TensorFlow, model evaluation & benchmarking
 
-⚙️ Data Visualization:
+⚙️ **Data Visualization:**
 Tableau, Power BI, Google Analytics, Looker Studio, ArcGIS 
 
 ---
