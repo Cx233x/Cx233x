@@ -1,6 +1,6 @@
 ## Hi, I'm Cindy 👋 
 
-<p align="center" color="blue">
+<p align="center" style="color:blue;">
   Aspiring Data Scientist
 </p>
 
