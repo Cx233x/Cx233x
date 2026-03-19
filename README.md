@@ -4,8 +4,8 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Boston_University_wordmark.svg" width="200" />
 </p>
 
-<p align="center" style="color:#0066cc;">
-  Aspiring Data Scientist
+<p align="center">
+  <img src="aspiring.svg" alt="Aspiring Data Scientist" />
 </p>
 
 🎓 **Senior @ Boston University** — Data Science & Statistical Modeling 
