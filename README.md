@@ -1,6 +1,10 @@
 ## Hi, I'm Cindy 👋 
 
-<p align="center" style="color:blue;">
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Boston_University_wordmark.svg" width="200" />
+</p>
+
+<p align="center" style="color:#0066cc;">
   Aspiring Data Scientist
 </p>
 
@@ -20,7 +24,7 @@
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,sql,tableau,r,mysql,rust,aws,azure,github" />
+  <img src="https://skillicons.dev/icons?i=python,java,r,mysql,rust,aws,azure,github" />
 </p>
 
 🤖 Machine Learning:
@@ -39,5 +43,5 @@ Tableau, Power BI, Google Analytics, Looker Studio, ArcGIS
 ---
 
 ### 📫 Contact
-📧 **yijiax@bu.edu**
-🧑‍💻 **www.linkedin.com/in/yijiaxcindy**
+- 📧 **yijiax@bu.edu**
+- 🧑‍💻 **www.linkedin.com/in/yijiaxcindy**
