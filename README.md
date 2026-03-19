@@ -1,4 +1,4 @@
-## Hi, I'm Cindy 👋 
+## Hi, I'm Cindy! 👋 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Boston_University_wordmark.svg" width="200" />
@@ -8,40 +8,51 @@
   <img src="aspiring.svg" alt="Aspiring Data Scientist" />
 </p>
 
-🎓 **Senior @ Boston University** — Data Science & Statistical Modeling 
+🎓 **Senior @ Boston University** — Data Science & Business Administration
+
 💼 **Research Assistant** @ Boston University Questrom School of Business
-🚀 Interested in **Data Engineering, Machine Learning, and Reinforcement Learning**
 
 ---
 
 ### 🔍 Interests
-- ⚙️ Data Engineering & Distributed Systems  
+- 🖥️ Dashboard Development  
 - 🤖 Machine Learning & Applied AI  
-- 📈 Scalable Data Pipelines & Analytics Platforms  
+- 📈 Data Visualization 
 
 ---
 
 ### 🛠 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,r,mysql,rust,aws,azure,github" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,github,vscode,aws,git" />
 </p>
 
-🤖 **Machine Learning:**
-CNN, NLP (TF-IDF, embeddings), Random Forest, SVM, Gradient Boosting (XGBoost / LightGBM), PyTorch, TensorFlow, model evaluation & benchmarking
+📊 **Data Visualization:**
+Tableau • Power BI • ArcGIS • Looker Studio • Streamlit
 
-⚙️ **Data Visualization:**
-Tableau, Power BI, Google Analytics, Looker Studio, ArcGIS 
+📝 **Data & Analytics Tools:**
+Pyhon • SQL • R • Excel • MySQL • SQLite • MongoDB • Pandas • NumPy • JSON • HTML 
+
+🤖 **Machine Learning:**
+ NLP • Random Forest • Scikit-learn • Gradient Boosting (XGBoost / LightGBM) • PyTorch • TensorFlow • CNNs • model evaluation
 
 ---
 
 ### 📌 Highlights
-- Built **end-to-end data pipelines** for large-scale datasets  
+- Built **end-to-end analytics workflows** to transform large data into actionable insights 
 - Applied **ML & NLP models** to real-world problems  
-- Strong foundation in **statistics, modeling, and system design**
+- Developed **AI-powered data tools** to improve complex information accessibility 
+- Built **interactive dashboards and analytics tools** to support data-driven decision-making 
+
 
 ---
 
 ### 📫 Contact
-- 📧 **yijiax@bu.edu**
-- 🧑‍💻 **www.linkedin.com/in/yijiaxcindy**
+📧 **Email: yijiax@bu.edu**
+
+
+🧑‍💻 **Linkedin: www.linkedin.com/in/yijiaxcindy**
+
+<p align="center">
+  Look forward to connect！
+</p>
