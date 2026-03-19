@@ -8,8 +8,7 @@
   <img src="aspiring.svg" alt="Aspiring Data Scientist" />
 </p>
 
-🎓 **Senior @ Boston University** — Data Science & Business Administration
-
+🎓 **Senior @ Boston University** — Data Science & Business Administration <br>
 💼 **Research Assistant** @ Boston University Questrom School of Business
 
 ---
@@ -27,11 +26,9 @@
 </p>
 
 📊 **Data Visualization:**
-Tableau • Power BI • ArcGIS • Looker Studio • Streamlit
-
+Tableau • Power BI • ArcGIS • Looker Studio • Streamlit <br>
 📝 **Data & Analytics Tools:**
-Pyhon • SQL • R • Excel • MySQL • SQLite • MongoDB • Pandas • NumPy • JSON • HTML 
-
+Pyhon • SQL • R • Excel • MySQL • SQLite • MongoDB • Pandas • NumPy • JSON • HTML <br>
 🤖 **Machine Learning:**
  NLP • Random Forest • Scikit-learn • Gradient Boosting (XGBoost / LightGBM) • PyTorch • TensorFlow • CNNs • Model Evaluation
 
