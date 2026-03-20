@@ -26,11 +26,11 @@
 </p>
 
 📊 **Data Visualization:**
-Tableau • Power BI • ArcGIS • Looker Studio • Streamlit <br>
-📝 **Data & Analytics Tools:**
-Pyhon • SQL • R • Excel • MySQL • SQLite • MongoDB • Pandas • NumPy • JSON • HTML <br>
+`Tableau` `Power BI` `ArcGIS` `Looker Studio` `Streamlit` <br>
+📝 **Data & Analytics:**
+`Pyhon` `SQL` `R` `Excel` `MySQL` `SQLite` `MongoDB` `Pandas` `NumPy` `JSON` `HTML` <br>
 🤖 **Machine Learning:**
- NLP • Random Forest • Scikit-learn • Gradient Boosting (XGBoost / LightGBM) • PyTorch • TensorFlow • CNNs • Model Evaluation
+`NLP` `Random Forest` `Scikit-learn` `Gradient Boosting (XGBoost / LightGBM)` `PyTorch` `TensorFlow` `CNNs` `Model Evaluation`
 
 ---
 
