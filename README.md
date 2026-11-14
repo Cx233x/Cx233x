@@ -44,7 +44,7 @@
 ---
 
 ### 📫 Let's Connect!
-📧 **Email: yijiax@bu.edu**
+📧 **Email: cindyxing233@gmail.com**
 
 
 🧑‍💻 **Linkedin: www.linkedin.com/in/yijiaxcindy**
