@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="headline.svg" alt="Data Analytics | Business Intelligence | Applied AI" width="600"/>
+  <img src="./headline.svg" alt="Data Analytics | Business Intelligence | Applied AI" width="600" height="45" />
 </p>
 
 🎓 **Boston University‘26** — Data Science & Business Administration <br>
