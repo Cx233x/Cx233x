@@ -1,15 +1,15 @@
-## Hi, I'm Cindy! 👋 
+## Hi, I'm Cindy! 
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/Boston_University_wordmark.svg" width="200" />
 </p>
 
 <p align="center">
-  <img src="aspiring.svg" alt="Aspiring Data Scientist" />
+  <img src="headline.svg" alt="Data Analytics | Business Intelligence | Applied AI" width="600"/>
 </p>
 
-🎓 **Senior @ Boston University** — Data Science & Business Administration <br>
-💼 **Research Assistant** @ Boston University Questrom School of Business
+🎓 **Boston University‘26** — Data Science & Business Administration <br>
+💼 **Research Assistant** @ Boston University Computing & Data Science 
 
 ---
 
@@ -43,12 +43,8 @@
 
 ---
 
-### 📫 Contact
+### 📫 Let's Connect!
 📧 **Email: yijiax@bu.edu**
 
 
 🧑‍💻 **Linkedin: www.linkedin.com/in/yijiaxcindy**
-
-<p align="center">
-  <b>Look forward to connect!</b>
-</p>
