@@ -1,1 +1,12 @@
-
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="45" viewBox="0 0 600 45">
+  <text
+    x="300"
+    y="30"
+    text-anchor="middle"
+    font-family="Arial, sans-serif"
+    font-size="21"
+    font-weight="600"
+    fill="#0077B5">
+    Data Analytics | Business Intelligence | Applied AI
+  </text>
+</svg>
