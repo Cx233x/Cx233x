@@ -19,7 +19,7 @@ I'm a Data Science graduate from Boston University with hands-on experience in d
 
 I enjoy working across the data lifecycle — from data cleaning and ETL to statistical analysis, dashboard development, and translating findings into actionable business insights. My experience spans web analytics, operational reporting, geospatial analysis, and AI-powered applications.
 
-I'm always excited to explore new technologies and finding ways to apply them to real-world problems.
+I'm always excited to explore new technologies and find ways to apply them to real-world problems.
 
 ---
 
@@ -37,16 +37,16 @@ I'm always excited to explore new technologies and finding ways to apply them to
 
 📝 **Data Analytics:**
 - **Languages:** `Python` `SQL` `R` `VBA` `JavaScript`
-- **Libraries:** `Pandas` `NumPy` `Matplotlib` `Seaborn` `SciPy` `statsmodels` 
+- **Libraries:** `pandas` `NumPy` `Matplotlib` `seaborn` `SciPy` `statsmodels` 
 - **Databases:** `PostgreSQL` `MySQL` `BigQuery` `SQLite` `MongoDB`<br>
 
-📊 **Data Visualization:**
+📊 **Business Intelligence:**
 `Tableau` `Power BI` `Excel` `Looker Studio` `Streamlit` `ArcGIS` <br>
 🤖 **Machine Learning:**
-`Scikit-learn` `TensorFlow` `PyTorch` `Random Forest` `XGBoost` `LightGBM` `CNNs` `RAG`
+`scikit-learn` `TensorFlow` `PyTorch` `Random Forest` `XGBoost` `LightGBM` `CNNs` `RAG`
 
 ---
 
 ### 📫 Let's Connect!
-📧 **Email: cindyxing233@gmail.com** <br>
-🧑‍💻 **Linkedin: www.linkedin.com/in/yijiaxcindy**
+**Email: cindyxing233@gmail.com** <br>
+**Linkedin: www.linkedin.com/in/yijiaxcindy**
